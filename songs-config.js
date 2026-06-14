@@ -11,6 +11,16 @@ window.SONGS_CONFIG = [
   },
   {
     "repo": 0,
+    "movie": "Jailer",
+    "songs": [
+      "Hukum.mpeg",
+      "Jujubee.mpeg",
+      "Kaavaalaa.mpeg",
+      "Rathamaarey.mpeg"
+    ]
+  },
+  {
+    "repo": 0,
     "movie": "Leo",
     "songs": [
       "Na Ready tha Varava.mpeg"
